@@ -1,4 +1,8 @@
 
+well...I feel silly now, I just did all that work, but aparantly I didn't need to?? vs code is having no problem at all giving me type hints without this adition??
+Idk what's going on, but I'm going to leave this up in case it's usefull to someone
+
+
 # PICAMZERO TYPES
 
 Since picamera2 and picamzero do not support directly installing with pip, usage with virtual environments is trick. And while there are workarounds, the easy ones do not allow code editors such as vs code to provide type hinting and auto complete. This is a simple fix, simply put the `picamzero` folder in your directory, and type hints will be provided. 
